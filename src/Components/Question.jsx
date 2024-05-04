@@ -31,7 +31,7 @@ export default function Question() {
   return (
     <>
       <div className="container box-border bg-gray-300 flex justify-center mx-auto">
-        <div className="quizBody border-2 md:w-[600px] border-gray-500 bg-white flex justify-center flex-col align-middle gap-4 p-10 shadow-2xl">
+        <div className="quizBody border-2 md:w-[600px] border-gray-500 bg-white pt-20 lg:pt-32 pl-10 pr-10 pb-32 flex justify-center flex-col align-middle gap-4 shadow-2xl">
           <div className="quizName mx-auto bg-black  w-full">
             <p className="text-white text-center">Take this Quiz</p>
           </div>
